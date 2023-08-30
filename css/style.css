@@ -1,0 +1,27 @@
+.login_container {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #ff5f6d, #ffc371);
+}
+
+.register_container {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #ff5f6d, #ffc371);
+}
+
+.producto_container {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #a8c0ff, #3f2b96);
+}
+
+.producto_container {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #a8c0ff, #3f2b96);
+}
